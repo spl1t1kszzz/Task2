@@ -1,0 +1,17 @@
+# ninja log v6
+7	2583	1727531427218001310	CMakeFiles/poissonsoft_test.dir/Task2/main.cpp.o	f37ff62bf133c904
+2583	2773	1727531429794372307	poissonsoft_test	e635d75d9dedcc6f
+9	2178	1727531427219563844	CMakeFiles/poissonsoft_test.dir/Task2/Segment/Segment.cpp.o	652a63fa5f95201b
+9	2554	1727531427220152675	CMakeFiles/poissonsoft_test.dir/Task2/Polygon/Polygon.cpp.o	e633971ce951942f
+8	2195	1727531427218819764	CMakeFiles/poissonsoft_test.dir/Task2/Point/Point.cpp.o	d2bc666ea46e2cf0
+10	2534	1727531427220523465	CMakeFiles/poissonsoft_test.dir/Task2/SymmetryAxisesFinder/SymmetryAxisesFinder.cpp.o	5b593fb3a20a634
+3	2218	1727535320584483108	CMakeFiles/poissonsoft_test.dir/Segment/Segment.cpp.o	3c5624756a8f3baa
+2	2290	1727535320583762937	CMakeFiles/poissonsoft_test.dir/Point/Point.cpp.o	c162633d32f950c5
+3	2415	1727535320585214613	CMakeFiles/poissonsoft_test.dir/Polygon/Polygon.cpp.o	7684311a417114ed
+4	2486	1727535320586081952	CMakeFiles/poissonsoft_test.dir/SymmetryAxisesFinder/SymmetryAxisesFinder.cpp.o	d7fe6d2d862060df
+1	2554	1727535320582557554	CMakeFiles/poissonsoft_test.dir/main.cpp.o	a50a99fab138d64c
+2555	2851	1727535323136558912	poissonsoft_test	bd925256df1de1
+9	1038	1727600174856460623	CMakeFiles/poissonsoft_test.dir/main.cpp.o	a50a99fab138d64c
+1039	1182	1727600175885775524	poissonsoft_test	bd925256df1de1
+9	1109	1727600353936487536	CMakeFiles/poissonsoft_test.dir/SymmetryAxisesFinder/SymmetryAxisesFinder.cpp.o	d7fe6d2d862060df
+1109	1252	1727600355036137480	poissonsoft_test	bd925256df1de1

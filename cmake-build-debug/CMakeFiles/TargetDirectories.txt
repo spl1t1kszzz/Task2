@@ -1,0 +1,3 @@
+/Users/nikson/CLionProjects/poissonsoft_test/cmake-build-debug/CMakeFiles/poissonsoft_test.dir
+/Users/nikson/CLionProjects/poissonsoft_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikson/CLionProjects/poissonsoft_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
